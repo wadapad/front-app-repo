@@ -64,7 +64,8 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog check by Marat version3 .
+            Epam task 8 edit app.js from github by Omaraliev Marat pushed
+              and autodeployed by ArgoCD.
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
